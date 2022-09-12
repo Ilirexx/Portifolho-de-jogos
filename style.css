@@ -1,0 +1,13 @@
+.Linha{
+    height: 6px;
+    background-color: aqua;
+    width: 100px;
+    margin: 8px auto;
+}
+body{
+    text-align: center;
+}
+#myCarousel img{
+    width: 350px;
+    height: 350px;
+}
